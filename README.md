@@ -2,4 +2,4 @@
 
 I am currently studying mathematics, statistics, business management, and finance. Situated at the intersection of these fields, I am interested in computer science and data science, which provide the means to approach these subjects.
 
-
+Here, you will find some examples of my work—occasionally modified for confidentiality reasons.
